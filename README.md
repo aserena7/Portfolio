@@ -1,6 +1,6 @@
 # Serena Alderisi Data Science Portfolio
 
-## Project 1: Rocks and Mines Classification
+## [Project 1: Rocks and Mines Classification](https://github.com/aserena7/Rocks_Mines_Classification)
 _Machine Learning Project: Sonar dataset classification. Supervised, metaclassifiers and unsupervised algorithm in R._
 
 Application of Machine Learning procedures to assess a binary classification problem: determine whether an object is a mine or a rock given the strength of sonar returns at different angles of measuremement.
