@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Serena Alderisi Data Science Portfolio
 
 ## Project 1: Rocks and Mines Classification
 _Machine Learning Project: Sonar dataset classification. Supervised, metaclassifiers and unsupervised algorithm in R._
