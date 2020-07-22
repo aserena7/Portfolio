@@ -13,3 +13,11 @@ _Machine Learning Project: Structure Learning, Parameters Learning and Inference
 Learning and inferencing the Bayesian Network built for the original wisconsin breast cancer dataset.
 This work will explore the different methods to learn the strucuture and the parameters of a Bayesian Network to select the model that fits better the breast cancer data. To learning the structure both Search+Score and Constraint-Based approach are performed. To learning the parameters Maximum Likelihood and Bayesian Based Estimation are used. Once obtained the Bayesian network, exact and approximate inference are performed. It's possible, for example, having an idea about the probability of having breast cancer before to do the biopsy to diagnostic the nature of the tumor. The inference is based on the question "What is it the probability of having breast cancer, given the results of a mammography?"
 ![strcuture_comparison](https://user-images.githubusercontent.com/55877748/88183074-49181400-cc31-11ea-9730-4e4cb20bfb1d.png)
+
+# [Project 3: Deep Neural Networks for California Housing Prices](https://github.com/aserena7/Deep_Neural_Network)
+*Deep Learning Project - Universidad Politécnica de Madrid. California Housing Prices classification task using a Deep ANN in Python.*
+
+In this work is performed the whole process to build a deep neural network from scratch.   The goal is to classify the observations of MedianHouseValue dataset in one of the 4 classes that describe the approximate locations of a house in California.  
+Several nets have been built to select the one that performs better according the accuracy value and the balance between bias and variance.    
+Batch normalization, L1/L2 Regularizers and Initializer are also used to improve results. 
+![](https://user-images.githubusercontent.com/55877748/88208293-4af1cf80-cc51-11ea-95be-f3725604c3e8.png)
