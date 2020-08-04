@@ -1,6 +1,6 @@
 # Serena Alderisi Data Science Portfolio
 
-![Linkedin_icon](https://user-images.githubusercontent.com/55877748/89290907-ddcf3880-d659-11ea-8baf-25e383c79811.png) [My Profile](www.linkedin.com/in/SerenaAlderisi)
+![Linkedin_icon](https://user-images.githubusercontent.com/55877748/89290907-ddcf3880-d659-11ea-8baf-25e383c79811.png) [My Profile](www.linkedin.com/in/serenaalderisi)
 
 
 ## [Project 1: Rocks and Mines Classification](https://github.com/aserena7/Rocks_Mines_Classification)
