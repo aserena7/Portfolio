@@ -1,7 +1,9 @@
-# Serena Alderisi Data Science Portfolio
+# Serena Alderisi 
+## Data Science Portfolio
 
-![Linkedin_icon](https://user-images.githubusercontent.com/55877748/89290907-ddcf3880-d659-11ea-8baf-25e383c79811.png) [My Profile](www.linkedin.com/in/serenaalderisi)
+![Linkedin_icon](https://user-images.githubusercontent.com/55877748/89290907-ddcf3880-d659-11ea-8baf-25e383c79811.png)[My Profile](www.linkedin.com/in/serenaalderisi)
 
+![iconfinder_gmail_132837](https://user-images.githubusercontent.com/55877748/89308762-ebdd8300-d672-11ea-99e3-5ba79d38f302.png) serena.alderisi@gmail.com
 
 ## [Project 1: Rocks and Mines Classification](https://github.com/aserena7/Rocks_Mines_Classification)
 _Machine Learning Project: Sonar dataset classification. Supervised, metaclassifiers and unsupervised algorithm in R._
