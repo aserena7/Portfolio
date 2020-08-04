@@ -1,5 +1,5 @@
 # Serena Alderisi 
-## Data Science Portfolio
+### Data Science Portfolio
 
 ![Linkedin_icon](https://user-images.githubusercontent.com/55877748/89290907-ddcf3880-d659-11ea-8baf-25e383c79811.png)[My Profile](www.linkedin.com/in/serenaalderisi)
 
