@@ -11,8 +11,7 @@
 I've discussed the most recent breakthroughs in 2020 that applied machine learning to fight COVID-19, highlighting achievements and challenges of the machine learning tools used in diagnosis, screening, contact tracing, drugs and vaccine development, prediction and forecasting.  
 On top of that I performed a SWOT analysis and provided the starting points for future studies and improvements.
 
-![COVI-19](https://github.com/aserena7/MSc_Thesis/files/5489018/Serena_Alderisi_TFM.pptx)
-
+![Serena_Alderisi_TFM (1)](https://user-images.githubusercontent.com/55877748/98137643-82178400-1ec2-11eb-9ef8-ed7b8f20058b.png)
 
 ## [Project 1: Rocks and Mines Classification](https://github.com/aserena7/Rocks_Mines_Classification)
 _Machine Learning Project: Sonar dataset classification. Supervised, metaclassifiers and unsupervised algorithm in R._
